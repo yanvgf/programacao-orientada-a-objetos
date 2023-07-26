@@ -1,0 +1,6 @@
+teste
+*.txt
+*.zip
+*.rar
+.vscode
+*.pdf
